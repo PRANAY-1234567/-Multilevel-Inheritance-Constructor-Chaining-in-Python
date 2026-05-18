@@ -124,7 +124,6 @@ Inside class Base default constructor
 Inside class Derived default constructor
 Inside class Derived1 default constructor
 ```
-
 ---
 
 ## 🧠 Key Concepts
