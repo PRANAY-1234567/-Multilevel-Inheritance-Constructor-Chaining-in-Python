@@ -22,6 +22,7 @@ When an object of the last derived class (`Derived1`) is created, constructors a
 
 ## 🛠️ How It Works
 
+
 ### Inheritance Hierarchy
 
 ```text id="g9m2pl"
