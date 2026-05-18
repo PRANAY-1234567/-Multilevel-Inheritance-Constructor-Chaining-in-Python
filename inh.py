@@ -12,6 +12,5 @@ class Derived1(Derived):
         super().__init__()
         print("Inside class Derived1 default constructor")
 
-
 if __name__ == "__main__":
     obj = Derived1()
