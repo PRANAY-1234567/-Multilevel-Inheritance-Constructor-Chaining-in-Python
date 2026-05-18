@@ -186,7 +186,7 @@ class Derived(Base):
 
 ---
 
-## 🎯 Advantages
+# 🎯 Advantages
 
 * Code reuse
 * Better organization
