@@ -206,3 +206,5 @@ class Derived(Base):
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="677" height="726" alt="image" src="https://github.com/user-attachments/assets/9320bad4-bca6-4f96-9882-174092fe65d0" />
