@@ -7,6 +7,7 @@ class Derived(Base):
         super().__init__()
         print("Inside class Derived default constructor")
 
+
 class Derived1(Derived):
     def __init__(self):
         super().__init__()
