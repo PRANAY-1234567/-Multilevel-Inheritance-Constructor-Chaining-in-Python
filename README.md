@@ -3,7 +3,6 @@
 ## 📌 Description
 
 This Python program demonstrates:
-
 * **Multilevel Inheritance**
 * **Constructor Chaining**
 * Use of the `super()` function
